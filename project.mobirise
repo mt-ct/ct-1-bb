@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Bambou Group - A Technology Company",
-    "currentPage": "page2.html",
+    "currentPage": "404.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1101,7 +1101,7 @@
         }
       ]
     },
-    "page2.html": {
+    "404.html": {
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "404.html",
