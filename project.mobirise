@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 18,
+    "uniqCompNum": 19,
     "versionPublish": "4.8.2",
     "favicon": "",
     "noImageResize": "",
@@ -42,7 +42,9 @@
     "siteUrl": "https://www.bambougroup.com",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": ""
   },
   "pages": {
     "index.html": {
@@ -635,7 +637,7 @@
       "settings": {
         "meta_descr": "Bambou About Us",
         "title": "About Us",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1105,7 +1107,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "404.html",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
